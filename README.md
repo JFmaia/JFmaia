@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Labican UFRN](https://github.com/labican-ufrn)
 
-- 💬 Ask me about **Dart, Flutter, FireBase, SQL**
+- 💬 Ask me about **Dart, Flutter, FireBase, SQL, Django, Python**
 
 - 📫 How to reach me **jfmaia741@gmail.com**
 
