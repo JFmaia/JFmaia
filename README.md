@@ -1,14 +1,14 @@
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm José Flávio </h1>
-<h3 align="center">A mobile developer who loves knowledge and loves the Flutter framework</h3>
+<h3 align="center">Um desenvolvedor que adora conhecimento e gerar soluções!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JFmaia" alt="JFmaia" /> </p>
 
-- 🔭 I’m currently working on [Labican UFRN](https://github.com/labican-ufrn)
+- 🔭 No momento estou trabalhando no [Labican UFRN](https://github.com/labican-ufrn)
 
-- 💬 Ask me about **Dart, Flutter, FireBase, SQL, Django, Python**
+- 💬 Pergunte-me sobre **Dart, Flutter, FireBase, MySQL, Django, Python, Javascript, Node.js**
 
-- 📫 How to reach me **jfmaia741@gmail.com**
+- 📫Como chegar até mim **jfmaia741@gmail.com**
 
-- ⚡ Curiosity in **Mind 😜**
+- ⚡ Curiosidade em **mente 😜**
 
 
 <div align="left">
@@ -17,7 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFmaia&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-## Skills
+## Habilidades
 <div style="display: inline_block"><br>
 <img align="center" alt="JFmaia-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 <img align="center" alt="JFmaia-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">     
@@ -29,7 +29,7 @@
 <img align="center" alt="JFmaia-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">  
 </div>
   
-## Contact
+## Contato
 <div>
     <p align="center">
         <a href="mailto:jfmaia741@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="JFmaia" height="20" width="20" /></a>
