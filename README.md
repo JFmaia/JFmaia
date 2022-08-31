@@ -2,7 +2,7 @@
 <h3 align="center">Um desenvolvedor que adora conhecimento e gerar soluções!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JFmaia" alt="JFmaia" /> </p>
 
-- 🔭 No momento estou trabalhando no [Labican UFRN](https://github.com/labican-ufrn)
+- 🔭 No momento estou trabalhando no [Labens UFRN](https://github.com/labens-ufrn)
 
 - 💬 Pergunte-me sobre **Dart, Flutter, FireBase, MySQL, Django, Python, Javascript, Node.js**
 
