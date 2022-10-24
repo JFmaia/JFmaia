@@ -34,6 +34,6 @@
     <p align="center">
         <a href="mailto:jfmaia741@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="JFmaia" height="20" width="20" /></a>
         <a href="https://www.linkedin.com/in/josé-flávio-da-silva-maia-04b482190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="JFmaia" height="20" width="20" /></a>
-        <a href="https://www.instagram.com/jfmaia_dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="JFmaia" height="20" width="20" /></a>
+        <a href="https://www.instagram.com/jsx_maia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="JFmaia" height="20" width="20" /></a>
     </p>
 </div>
