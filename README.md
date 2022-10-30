@@ -6,7 +6,7 @@
 
 - 💬 Pergunte-me sobre **Dart, Flutter, SQL, Django, Python, Javascript, Node.js, Vue.js**
 
-- 📫Como chegar até mim **jfmaia741@gmail.com**
+- 📫 Como chegar até mim **jfmaia741@gmail.com**
 
 - ⚡ Curiosidade em **mente 😜**
 
