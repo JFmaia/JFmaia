@@ -1,6 +1,6 @@
 <h1 align="center">Oi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou José Flávio </h1>
 <h3 align="center">Um desenvolvedor que adora conhecimento e gerar soluções!</h3>
-<hr style="height:1px"/>
+<hr style="height:0.5px"/>
 <article>
   
   - 🔭 No momento estou trabalhando no [Labens UFRN](https://github.com/labens-ufrn)
