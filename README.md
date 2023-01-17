@@ -2,6 +2,7 @@
 <h3 align="center">Um desenvolvedor que adora conhecimento e gerar soluções!</h3>
 
 <article>
+  
   - 🔭 No momento estou trabalhando no [Labens UFRN](https://github.com/labens-ufrn)
 
   - 💬 Pergunte-me sobre **Dart, Flutter, SQL, Django, Python, Javascript, Node.js, Vue.js**
@@ -9,6 +10,7 @@
   - 📫 Como chegar até mim **jfmaia741@gmail.com**
 
   - ⚡ Curiosidade em **mente 😜**
+  
 </article>
 ## Habilidades
 <div style="display: inline_block"><br>
