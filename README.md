@@ -1,6 +1,6 @@
 <h1 align="center">Oi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou José Flávio </h1>
 <h3 align="center">Um desenvolvedor que adora conhecimento e gerar soluções!</h3>
-
+<hr/>
 - 🔭 No momento estou trabalhando no [Labens UFRN](https://github.com/labens-ufrn)
 
 - 💬 Pergunte-me sobre **Dart, Flutter, SQL, Django, Python, Javascript, Node.js, Vue.js**
