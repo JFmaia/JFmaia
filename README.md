@@ -1,4 +1,4 @@
-<div style="background-color:#61DAFB">
+<div style="backgroundColor:#61DAFB">
   <h1 align="start">Oi, eu sou José Flávio </h1>
   <h3 align="start">Um desenvolvedor que adora conhecimento e gerar soluções!</h3>
 
