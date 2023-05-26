@@ -17,7 +17,7 @@
 
 [![JFmaia GitHub stats](https://github-readme-stats.vercel.app/api?username=JFmaia&show_icons=true&theme=dracula)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFmaia&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFmaia&layout=compact&theme=dracula)]()
 
 ## Habilidades
 <div style="display: inline_block"><br>
