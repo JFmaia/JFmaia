@@ -4,13 +4,13 @@
 
   <article>
 
-    - 🔭 No momento estou trabalhando no [Labens UFRN](https://github.com/labens-ufrn)
+      > 🔭 No momento estou trabalhando no [Labens UFRN](https://github.com/labens-ufrn)
 
-    - 💬 Pergunte-me sobre **Javascript, Node.js, Vue.js, TypeScript, React.js **
+      > 💬 Pergunte-me sobre **Javascript, Node.js, Vue.js, TypeScript, React.js **
 
-    - 📫 Como chegar até mim **jfmaia.dev@gmail.com**
+      > 📫 Como chegar até mim **jfmaia.dev@gmail.com**
 
-    - ⚡ Curiosidade em **mente 😜**
+      > ⚡ Curiosidade em **mente 😜**
 
   </article>
 
