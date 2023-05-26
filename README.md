@@ -1,4 +1,4 @@
-<div>
+<div style="display: inline_block">
   <h1 align="start">Oi, eu sou José Flávio </h1>
   <h3 align="start">Um desenvolvedor que adora conhecimento e gerar soluções!</h3>
 
@@ -15,10 +15,12 @@
   </article>
 
   <br>
-
+  
   [![JFmaia GitHub stats](https://github-readme-stats.vercel.app/api?username=JFmaia&show_icons=true&theme=dracula)]()
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFmaia&layout=compact&theme=dracula)]()
+  <div>
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFmaia&layout=compact&theme=dracula)]()
+  </div>
 
   ## Habilidades
   <div style="display: inline_block"><br>
