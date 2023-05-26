@@ -6,7 +6,7 @@
 
     - 🔭 No momento estou trabalhando no [Labens UFRN](https://github.com/labens-ufrn)
 
-    - 💬 Pergunte-me sobre **Dart, Flutter, SQL, Django, Python, Javascript, Node.js, Vue.js, TypeScript **
+    - 💬 Pergunte-me sobre **Javascript, Node.js, Vue.js, TypeScript, React.js **
 
     - 📫 Como chegar até mim **jfmaia.dev@gmail.com**
 
