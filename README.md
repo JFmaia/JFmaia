@@ -1,8 +1,6 @@
 <h1 align="start">Oi, eu sou José Flávio </h1>
 <h3 align="start">Um desenvolvedor que adora conhecimento e gerar soluções!</h3>
 
-<br>
-
 <article>
   
   - 🔭 No momento estou trabalhando no [Labens UFRN](https://github.com/labens-ufrn)
@@ -14,6 +12,8 @@
   - ⚡ Curiosidade em **mente 😜**
   
 </article>
+
+<br>
 
 [![JFmaia GitHub stats](https://github-readme-stats.vercel.app/api?username=JFmaia&show_icons=true&theme=dracula)]()
 
